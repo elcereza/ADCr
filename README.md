@@ -1,2 +1,2 @@
 # ADCr
-biblioteca de reversão ADC
+Biblioteca de reversão ADC, explicação detalhada em: https://elcereza.com/reversao-adc
